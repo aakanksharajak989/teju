@@ -1,0 +1,40 @@
+
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+h1{
+    text-align: center;
+    text-transform: capitalize;
+
+    color: red;
+    background-color: black;
+    font-style:oblique;
+}
+div{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+    color: red;
+    background-color: black;
+    font-style: oblique;
+    
+}
+h3{
+    text-align: center;
+    text-size-adjust: 10px;
+    color: blueviolet;
+    text-transform: capitalize;
+    font-style: oblique;
+}
+body{ 
+    background-color: rgb(193, 187, 219);
+}
+
+
+
+
